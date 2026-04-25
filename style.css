@@ -1,3 +1,76 @@
-#bod{
-  background-color: #EF5350;
-};
+#bod {
+  background-color: #ef5350;
+  text-align: center;
+}
+
+#first {
+  border-radius: 10px;
+  border-radius: 65%;
+
+  max-width: 100%;
+  height: auto;
+}
+
+#ti {
+  color: #388e3c;
+  font-family: "Baba Neue", normal;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 70px;
+}
+
+#desc {
+  color: #c5e1a5;
+  font-family: "Share Tech", normal;
+  font-size: 25px;
+}
+
+#awd {
+  color: #c5e1a5;
+  font-family: "Baba Neue", normal;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  margin-top: 200px;
+}
+
+#myCarousel {
+  margin-bottom: 200px;
+}
+
+#vid {
+  color: #c5e1a5;
+  font-family: "Baba Neue", normal;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  margin-top: 50px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
